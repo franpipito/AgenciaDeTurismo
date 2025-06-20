@@ -1,0 +1,6 @@
+C:\Users\Franco\OneDrive - Fundación UADE\Personal\GitHub\parciales-csharp-unaj\Parcial-AgenciaTurismo\Parcial-AgenciaTurismo\obj\Debug\Parcial-AgenciaTurismo.csprojResolveAssemblyReference.cache
+C:\Users\Franco\OneDrive - Fundación UADE\Personal\GitHub\parciales-csharp-unaj\Parcial-AgenciaTurismo\Parcial-AgenciaTurismo\bin\Debug\Parcial-AgenciaTurismo.exe.config
+C:\Users\Franco\OneDrive - Fundación UADE\Personal\GitHub\parciales-csharp-unaj\Parcial-AgenciaTurismo\Parcial-AgenciaTurismo\bin\Debug\Parcial-AgenciaTurismo.exe
+C:\Users\Franco\OneDrive - Fundación UADE\Personal\GitHub\parciales-csharp-unaj\Parcial-AgenciaTurismo\Parcial-AgenciaTurismo\bin\Debug\Parcial-AgenciaTurismo.pdb
+C:\Users\Franco\OneDrive - Fundación UADE\Personal\GitHub\parciales-csharp-unaj\Parcial-AgenciaTurismo\Parcial-AgenciaTurismo\obj\Debug\Parcial-AgenciaTurismo.exe
+C:\Users\Franco\OneDrive - Fundación UADE\Personal\GitHub\parciales-csharp-unaj\Parcial-AgenciaTurismo\Parcial-AgenciaTurismo\obj\Debug\Parcial-AgenciaTurismo.pdb
