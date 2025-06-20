@@ -65,6 +65,7 @@ Viajes menores a $250000
 Codigo123, DestinoCórdoba,Precio240000
 
 ...
+---
 
 ## Autor ✍️
 **Franco Pipito** - Estudiante de Ingeniería Informática - UADE
