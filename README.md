@@ -64,9 +64,12 @@ Total recaudado: 720000
 Viajes menores a $250000
 Codigo123, DestinoCórdoba,Precio240000
 
+```text
+---
 
 ## Autor ✍️
-Franco Pipito - Estudiante de Ingeniería Informática - UADE
+**Franco Pipito** - Estudiante de Ingeniería Informática - UADE
 
 - 💻 GitHub: https://github.com/franpipito  
 - 💼 LinkedIn: www.linkedin.com/in/francopipito 
+
