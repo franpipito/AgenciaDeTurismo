@@ -3,7 +3,7 @@
 "resolución completa del parcial de Agencia de Turismo con comentarios y función recursiva"
 
 ## Descripción 📚
-Este proyecto resuelve un parcial de la materia Algoritmos y Programación en C#. 
+Este proyecto resuelve un parcial de la materia Algoritmos y Programación en C# .NET.
 El programa permite:
 - Cargar viajes a una agencia.
 - Vender boletos a clientes.
